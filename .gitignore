@@ -1,0 +1,23 @@
+# Variables de entorno
+.env
+
+# Entorno virtual
+.venv/
+
+# Archivos Python
+__pycache__/
+*.pyc
+
+# Caché de pruebas
+.pytest_cache/
+.ruff_cache/
+
+# Cobertura
+.coverage
+htmlcov/
+
+# Archivos del sistema
+.DS_Store
+# Datos locales de Google ADK
+.adk/
+**/.adk/
